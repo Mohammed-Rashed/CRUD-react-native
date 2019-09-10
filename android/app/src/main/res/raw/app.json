@@ -1,0 +1,6 @@
+{
+  "name": "Crud",
+  "displayName": "Crud",
+  "entryPoint": "./src/app/index.js"
+
+}
